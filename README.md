@@ -4,9 +4,6 @@ Code and CAD for the WPI RBE noiles IR camera test box
 # How to use
 
 
-<p align="center">
-  <img src="IRCamera_tester_box_cad/use.png" width="350" alt="using boxp">
-</p>
 
 
 To plug in the IR camera plug in top to bottom
@@ -19,10 +16,13 @@ To plug in the IR camera plug in top to bottom
 </p>
 
 <p>
-  
   Point the camera at the LED's and you should see a red light on the IR camera and circles on the OLED showing the location of the LED's with respect to the cameras field of view
-  
   </p>
+  
+<p align="center">
+  <img src="IRCamera_tester_box_cad/use_photo.png" width="350" alt="using boxp">
+</p>
+
 
 # Wiring
 
@@ -65,6 +65,7 @@ To plug in the IR camera plug in top to bottom
   <b> Assembly:</b><br>
   1) Insert all heat insert nuts into box top. There are 2 inserts per side and 2 inserts to mount the ESP32<br>
   2) Screw the SDoldered prototyping board and the OLED display to the printed box top. Use M3 screws for the board and 2-56 for the OLED <br>
+  2) Print the pinout colors PDF and tape it to the box to indicate the correct IR Camera wiring<br>
 </p>
 <p align="center">
   <img src="IRCamera_tester_box_cad/top.png" width="350" alt="Box Top"><br>
