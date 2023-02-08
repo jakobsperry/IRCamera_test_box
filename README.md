@@ -3,6 +3,12 @@ Code and CAD for the WPI RBE noiles IR camera test box
 
 # How to use
 
+
+<p align="center">
+  <img src="IRCamera_tester_box_cad/use.png" width="350" alt="using boxp">
+</p>
+
+
 To plug in the IR camera plug in top to bottom
 
 <p>
@@ -28,7 +34,7 @@ To plug in the IR camera plug in top to bottom
 </p>
 
 <p align="center">
-  <img src="IRCamera_tester_box_cad/wiring.png" width="350" alt="Box Top">
+  <img src="IRCamera_tester_box_cad/wiring.png" width="350" alt="Box wiring">
 </p>
 
 <p>
@@ -62,7 +68,7 @@ To plug in the IR camera plug in top to bottom
 </p>
 <p align="center">
   <img src="IRCamera_tester_box_cad/top.png" width="350" alt="Box Top"><br>
-  <img src="IRCamera_tester_box_cad/heat_insert.png" width="350" alt="Box Top">
+  <img src="IRCamera_tester_box_cad/heat_insert.png" width="350" alt="heat insert">
 </p>
 
 
