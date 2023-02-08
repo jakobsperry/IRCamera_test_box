@@ -1,12 +1,7 @@
-# IRCamera_test_box
-Code and CAD for the WPI RBE noiles IR camera test box
 
 # How to use
 
-
-
-
-To plug in the IR camera plug in top to bottom
+Connect the IR camera wires in order top to bottom:
 
 <p>
   Black<br>
