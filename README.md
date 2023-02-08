@@ -65,6 +65,7 @@ To plug in the IR camera plug in top to bottom
   <b> Assembly:</b><br>
   1) Insert all heat insert nuts into box top. There are 2 inserts per side and 2 inserts to mount the ESP32<br>
   2) Screw the SDoldered prototyping board and the OLED display to the printed box top. Use M3 screws for the board and 2-56 for the OLED <br>
+  2) Print the pinout colors PDF and tape it to the box to indicate the correct IR Camera wiring<br>
 </p>
 <p align="center">
   <img src="IRCamera_tester_box_cad/top.png" width="350" alt="Box Top"><br>
